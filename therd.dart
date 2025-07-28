@@ -1,5 +1,5 @@
 void main(){
     print("ahsans");
     print("new");
-    print("new origin is set");
+    print("hello word");
 }
